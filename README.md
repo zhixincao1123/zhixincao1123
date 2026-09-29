@@ -4,7 +4,16 @@
 **zhixincao1123/zhixincao1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+ ### 曹 / Zach Cao
 
+  工业上位机开发(C# / WPF)· 半导体 X-Ray 检测设备 · 工业通信与设备对接
+
+  - 🔭 在做:大型 WPF 工业 CT 在线检测系统(设备通信层 / 检测可视化 / 稳定性与根因定位)
+  - 🧰 C# / .NET、WPF(MVVM)、Modbus RTU·TCP、OPC UA、Socket、SQLite
+  - 📦 [air-compress-monitor](https://github.com/zhixincao1123/air-compress-monitor)
+    —— 空压机联网监控上位机:双协议采集 · 多从站轮询与心跳保活 · 断线重连 · SQLite/CSV 按天归档
+  - ✍️ 技术博客:https://blog.csdn.net/czhc1140075663
+  - 📍 无锡
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
